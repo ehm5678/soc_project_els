@@ -155,3 +155,16 @@
 #column-locations li {
     margin-bottom: 15px;
 }
+
+#support-list ul {
+    list-style: none;
+}
+
+#support-list li {
+    margin-bottom: 15px;
+}
+
+
+#support-list {
+    list-style-type: none;
+}
