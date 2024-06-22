@@ -168,3 +168,17 @@
 #support-list {
     list-style-type: none;
 }
+
+
+#hosting-list ul {
+    list-style: none;
+}
+
+
+#hosting-list {
+    list-style-type: none;
+}
+
+#hosting-list li {
+    margin-bottom: 15px;
+}
