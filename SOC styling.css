@@ -182,3 +182,16 @@
 #hosting-list li {
     margin-bottom: 15px;
 }
+
+#airbnb-list ul {
+    list-style: none;
+}
+
+#airbnb-list li {
+    margin-bottom: 15px;
+}
+
+
+#airbnb-list {
+    list-style-type: none;
+}
