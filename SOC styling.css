@@ -132,3 +132,15 @@
 #future-getaways {
     margin-left: 15px
 }
+
+
+#getaways-bar ul {
+    list-style: none;
+    font-weight:600;
+}
+
+ #getaways-bar li {
+    display: inline-block;
+    margin-right: 20px; 
+    text-align: center;
+}
