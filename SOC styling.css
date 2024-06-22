@@ -198,8 +198,6 @@
 
 
 
-
-
 #lang-currency ul {
     list-style: none;
     font-weight:500;
@@ -213,4 +211,13 @@
 
 .lang-img {
     text-align: right;
+}
+
+
+#privacy-list {
+    list-style-type: none;
+}
+
+#privacy-list li {
+    margin-bottom: 15px;
 }
