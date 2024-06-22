@@ -113,3 +113,22 @@
 .example-host {
     color: grey;
 }
+
+/*Past experiences subheading*/  
+
+
+
+
+/*Footer bar*/  
+
+.footer-bar {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+    grid-gap: 30px;
+    background-color: hwb(0 92% 7%);
+}
+
+#future-getaways {
+    margin-left: 15px
+}
