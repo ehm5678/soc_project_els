@@ -26,6 +26,10 @@
     padding: 1em;
 }
 
+.searchbar-bolder {
+    font-weight: bold;
+}
+
 .container {
     display: grid;
     grid-template-columns: 100%;
@@ -93,14 +97,20 @@
 
 .example-property {
     margin-left: 15px;
+    font-weight: 600;
 }
 
 .host {
     color: grey;
+    font-weight: normal;
 }
 
-.example-host {
-    color: grey;
+/* Past experiences subheading */  
+
+.past-experiences-subheading {
+    margin-left: 15px;
+    font-size:8vw;
+    font-weight: bold;
 }
 
 /* Footer bar */  
@@ -113,10 +123,21 @@
     background-color: hwb(0 92% 7%);
 }
 
+.dividing-line {
+    width: 95%; 
+    text-align: left;
+    margin-left: 5;
+}
+
 /* Future getaways subheading */  
 
 #future-getaways {
     margin-left: 15px
+}
+
+.future-getaways-subheading {
+    font-size: 5vw;
+    font-weight: bold;
 }
 
 /* Future getaways type bar */  
@@ -132,6 +153,11 @@
     text-align: center;
 }
 
+.getaways-type-font {
+    font-weight:600;
+    color:gray;
+}
+
 /* Column list of locations */  
 
 #column-locations {
@@ -145,7 +171,19 @@
     margin-bottom: 15px;
 }
 
+.column-locations-grey {
+    color: grey
+}
+
+.column-locations-bold {
+    font-weight: bold;
+}
+
 /*Support footer subheading / list */  
+
+.bolder-subheading {
+    font-weight: bolder; 
+}
 
 #support-list ul {
     list-style: none;
@@ -246,3 +284,4 @@
     margin-right: 40px; 
     text-align: center;
 }
+
