@@ -1,10 +1,8 @@
-
-/*Font styles*/  
+/* Font styles */  
 
 * {
     font-weight: normal; 
 }
-
 
 .montserrat-web-font {
   font-family: "Montserrat", sans-serif;
@@ -22,10 +20,7 @@
     font-size: medium;
 }
 
-
-
-/*Search bar / types of properties bar*/  
-
+/* Search bar / types of properties bar */  
 
 #searchbar-heading {
     padding: 1em;
@@ -53,19 +48,16 @@
     box-shadow: 2px 2px 2px 2px rgba(0.4, 0.4, 0.4, 0.4);
 }
 
-
 .icon-bar ul {
     list-style: none;
     text-align: center;
 }
-
   
- .icon-bar li {
+.icon-bar li {
     display: inline-block;
     margin-right: 40px; 
     text-align: center;
 }
-
 
 .icon-img { 
     display: block;
@@ -76,7 +68,7 @@
     text-align: center;
 }
 
-/*Property examples*/  
+/* Property examples */  
 
 .property-example {
     display: grid;
@@ -99,7 +91,6 @@
     margin-right: auto;
 }
 
-
 .example-property {
     margin-left: 15px;
 }
@@ -108,18 +99,11 @@
     color: grey;
 }
 
-
-
 .example-host {
     color: grey;
 }
 
-/*Past experiences subheading*/  
-
-
-
-
-/*Footer bar*/  
+/* Footer bar */  
 
 .footer-bar {
     display: grid;
@@ -129,10 +113,13 @@
     background-color: hwb(0 92% 7%);
 }
 
+/* Future getaways subheading */  
+
 #future-getaways {
     margin-left: 15px
 }
 
+/* Future getaways type bar */  
 
 #getaways-bar ul {
     list-style: none;
@@ -145,6 +132,8 @@
     text-align: center;
 }
 
+/* Column list of locations */  
+
 #column-locations {
     column-count: 2;
     list-style-type: none;
@@ -156,6 +145,8 @@
     margin-bottom: 15px;
 }
 
+/*Support footer subheading / list */  
+
 #support-list ul {
     list-style: none;
 }
@@ -164,16 +155,16 @@
     margin-bottom: 15px;
 }
 
-
 #support-list {
     list-style-type: none;
 }
+
+/* Hosting footer subheading / list */  
 
 
 #hosting-list ul {
     list-style: none;
 }
-
 
 #hosting-list {
     list-style-type: none;
@@ -183,6 +174,8 @@
     margin-bottom: 15px;
 }
 
+/* Airbnb footer subheading / list */  
+
 #airbnb-list ul {
     list-style: none;
 }
@@ -191,12 +184,11 @@
     margin-bottom: 15px;
 }
 
-
 #airbnb-list {
     list-style-type: none;
 }
 
-
+/* Language and currency selector */  
 
 #lang-currency ul {
     list-style: none;
@@ -213,6 +205,7 @@
     text-align: right;
 }
 
+/* privacy and legal list */  
 
 #privacy-list {
     list-style-type: none;
@@ -222,7 +215,7 @@
     margin-bottom: 15px;
 }
 
-
+/* footer search bar */  
 
 .searchbar-foot{
     position: sticky;
@@ -247,11 +240,9 @@
     list-style: none;
     text-align: center;
 }
-
   
 .search-footer li {
     display: inline-block;
     margin-right: 40px; 
     text-align: center;
 }
-
