@@ -22,7 +22,7 @@
 
 /* Search bar / types of properties bar */  
 
-#searchbar-heading {
+.searchbar-heading {
     padding: 1em;
 }
 
@@ -65,11 +65,6 @@
 
 .icon-img { 
     display: block;
-}
-
-#swim {
-    float: center;
-    text-align: center;
 }
 
 /* Property examples */  
@@ -131,7 +126,7 @@
 
 /* Future getaways subheading */  
 
-#future-getaways {
+.future-getaways {
     margin-left: 15px
 }
 
@@ -142,12 +137,12 @@
 
 /* Future getaways type bar */  
 
-#getaways-bar ul {
+.getaways-bar ul {
     list-style: none;
     font-weight:600;
 }
 
- #getaways-bar li {
+ .getaways-bar li {
     display: inline-block;
     margin-right: 20px; 
     text-align: center;
@@ -160,14 +155,14 @@
 
 /* Column list of locations */  
 
-#column-locations {
+.column-locations {
     column-count: 2;
     list-style-type: none;
     margin-top: 15px;
     padding-top: 1em;
 }
 
-#column-locations li {
+.column-locations li {
     margin-bottom: 15px;
 }
 
@@ -185,55 +180,55 @@
     font-weight: bolder; 
 }
 
-#support-list ul {
+.support-list ul {
     list-style: none;
 }
 
-#support-list li {
+.support-list li {
     margin-bottom: 15px;
 }
 
-#support-list {
+.support-list {
     list-style-type: none;
 }
 
 /* Hosting footer subheading / list */  
 
 
-#hosting-list ul {
+.hosting-list ul {
     list-style: none;
 }
 
-#hosting-list {
+.hosting-list {
     list-style-type: none;
 }
 
-#hosting-list li {
+.hosting-list li {
     margin-bottom: 15px;
 }
 
 /* Airbnb footer subheading / list */  
 
-#airbnb-list ul {
+.airbnb-list ul {
     list-style: none;
 }
 
-#airbnb-list li {
+.airbnb-list li {
     margin-bottom: 15px;
 }
 
-#airbnb-list {
+.airbnb-list {
     list-style-type: none;
 }
 
 /* Language and currency selector */  
 
-#lang-currency ul {
+.lang-currency ul {
     list-style: none;
     font-weight:500;
 }
 
-#lang-currency li {
+.lang-currency li {
     display: inline-block;
     margin-right: 20px; 
     text-align: center;
@@ -245,11 +240,11 @@
 
 /* privacy and legal list */  
 
-#privacy-list {
+.privacy-list {
     list-style-type: none;
 }
 
-#privacy-list li {
+.privacy-list li {
     margin-bottom: 15px;
 }
 
